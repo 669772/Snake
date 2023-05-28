@@ -7,5 +7,4 @@ public class SnakeName {
 		new GameFrame();
 
 	}
-
 }
